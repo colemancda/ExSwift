@@ -1,0 +1,17 @@
+language: objective-c
+osx_image: beta-xcode6.3
+
+xcode_workspace: ExSwift.xcworkspace
+xcode_scheme:
+- ExSwift-iOS
+- ExSwift-Mac
+xcode_sdk:
+- iphonesimulator8.3
+- macosx10.10
+
+matrix:
+  exclude:
+  - xcode_scheme: ExSwift-iOS
+    xcode_sdk: macosx10.10
+  - xcode_scheme: ExSwift-Mac
+    xcode_sdk: iphonesimulator8.3
