@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1E11AF831943222D006BCE48"
+               BlueprintIdentifier = "24D9BBE51AC54B30000FDBB8"
                BuildableName = "ExSwift.framework"
-               BlueprintName = "ExSwift-Mac"
-               ReferencedContainer = "container:ExSwift.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1E11AF8E1943222D006BCE48"
-               BuildableName = "ExSwiftTests.xctest"
-               BlueprintName = "ExSwiftTests-Mac"
+               BlueprintName = "ExSwift"
                ReferencedContainer = "container:ExSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -42,26 +28,7 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1E11AF8E1943222D006BCE48"
-               BuildableName = "ExSwiftTests.xctest"
-               BlueprintName = "ExSwiftTests-Mac"
-               ReferencedContainer = "container:ExSwift.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1E11AF831943222D006BCE48"
-            BuildableName = "ExSwift.framework"
-            BlueprintName = "ExSwift-Mac"
-            ReferencedContainer = "container:ExSwift.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -75,9 +42,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1E11AF831943222D006BCE48"
+            BlueprintIdentifier = "24D9BBE51AC54B30000FDBB8"
             BuildableName = "ExSwift.framework"
-            BlueprintName = "ExSwift-Mac"
+            BlueprintName = "ExSwift"
             ReferencedContainer = "container:ExSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -93,9 +60,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1E11AF831943222D006BCE48"
+            BlueprintIdentifier = "24D9BBE51AC54B30000FDBB8"
             BuildableName = "ExSwift.framework"
-            BlueprintName = "ExSwift-Mac"
+            BlueprintName = "ExSwift"
             ReferencedContainer = "container:ExSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
