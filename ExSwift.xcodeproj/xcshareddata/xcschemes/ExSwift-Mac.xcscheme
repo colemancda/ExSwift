@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1E11AF831943222D006BCE48"
                BuildableName = "ExSwift.framework"
-               BlueprintName = "ExSwift-Mac"
+               BlueprintName = "ExSwift Mac"
                ReferencedContainer = "container:ExSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -58,7 +58,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1E11AF831943222D006BCE48"
             BuildableName = "ExSwift.framework"
-            BlueprintName = "ExSwift-Mac"
+            BlueprintName = "ExSwift Mac"
             ReferencedContainer = "container:ExSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -77,7 +77,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1E11AF831943222D006BCE48"
             BuildableName = "ExSwift.framework"
-            BlueprintName = "ExSwift-Mac"
+            BlueprintName = "ExSwift Mac"
             ReferencedContainer = "container:ExSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -95,7 +95,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1E11AF831943222D006BCE48"
             BuildableName = "ExSwift.framework"
-            BlueprintName = "ExSwift-Mac"
+            BlueprintName = "ExSwift Mac"
             ReferencedContainer = "container:ExSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

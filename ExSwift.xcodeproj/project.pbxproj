@@ -217,9 +217,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		1E11AF831943222D006BCE48 /* ExSwift-Mac */ = {
+		1E11AF831943222D006BCE48 /* ExSwift Mac */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1E11AF9A1943222D006BCE48 /* Build configuration list for PBXNativeTarget "ExSwift-Mac" */;
+			buildConfigurationList = 1E11AF9A1943222D006BCE48 /* Build configuration list for PBXNativeTarget "ExSwift Mac" */;
 			buildPhases = (
 				1E11AF7F1943222D006BCE48 /* Sources */,
 				1E11AF801943222D006BCE48 /* Frameworks */,
@@ -230,14 +230,14 @@
 			);
 			dependencies = (
 			);
-			name = "ExSwift-Mac";
+			name = "ExSwift Mac";
 			productName = ExSwift;
 			productReference = 1E11AF841943222D006BCE48 /* ExSwift.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		24D9BBE51AC54B30000FDBB8 /* ExSwift-iOS */ = {
+		24D9BBE51AC54B30000FDBB8 /* ExSwift iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 24D9BBF91AC54B31000FDBB8 /* Build configuration list for PBXNativeTarget "ExSwift-iOS" */;
+			buildConfigurationList = 24D9BBF91AC54B31000FDBB8 /* Build configuration list for PBXNativeTarget "ExSwift iOS" */;
 			buildPhases = (
 				24D9BBE11AC54B30000FDBB8 /* Sources */,
 				24D9BBE21AC54B30000FDBB8 /* Frameworks */,
@@ -248,7 +248,7 @@
 			);
 			dependencies = (
 			);
-			name = "ExSwift-iOS";
+			name = "ExSwift iOS";
 			productName = ExSeift;
 			productReference = 24D9BBE61AC54B30000FDBB8 /* ExSwift.framework */;
 			productType = "com.apple.product-type.framework";
@@ -282,8 +282,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				24D9BBE51AC54B30000FDBB8 /* ExSwift-iOS */,
-				1E11AF831943222D006BCE48 /* ExSwift-Mac */,
+				1E11AF831943222D006BCE48 /* ExSwift Mac */,
+				24D9BBE51AC54B30000FDBB8 /* ExSwift iOS */,
 			);
 		};
 /* End PBXProject section */
@@ -457,6 +457,7 @@
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = macosx;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Debug;
 		};
@@ -476,6 +477,7 @@
 				PRODUCT_NAME = ExSwift;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = macosx;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Release;
 		};
@@ -539,7 +541,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1E11AF9A1943222D006BCE48 /* Build configuration list for PBXNativeTarget "ExSwift-Mac" */ = {
+		1E11AF9A1943222D006BCE48 /* Build configuration list for PBXNativeTarget "ExSwift Mac" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1E11AF9B1943222D006BCE48 /* Debug */,
@@ -548,7 +550,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		24D9BBF91AC54B31000FDBB8 /* Build configuration list for PBXNativeTarget "ExSwift-iOS" */ = {
+		24D9BBF91AC54B31000FDBB8 /* Build configuration list for PBXNativeTarget "ExSwift iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				24D9BBFA1AC54B31000FDBB8 /* Debug */,
